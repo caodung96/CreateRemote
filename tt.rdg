@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RDCMan schemaVersion="1">
+    <version>2.2</version>
+    <file>
+        <properties>
+            <name>tt</name>
+            <expanded>True</expanded>
+            <comment />
+            <logonCredentials inherit="FromParent" />
+            <connectionSettings inherit="FromParent" />
+            <gatewaySettings inherit="FromParent" />
+            <remoteDesktop inherit="FromParent" />
+            <localResources inherit="FromParent" />
+            <securitySettings inherit="FromParent" />
+            <displaySettings inherit="FromParent" />
+        </properties>
+        <server>
+            <name>ec2-18-190-157-211.us-east-2.compute.amazonaws.com</name>
+            <displayName>0-1</displayName>
+            <comment />
+            <logonCredentials inherit="None">
+                <userName>Administrator</userName>
+                <domain>ec2-18-190-157-211.us-east-2.compute.amazonaws.com</domain>
+                <password storeAsClearText="True">F3l=lkU$nf8*I3XnUH!hoRINZp!xCMfV</password>
+            </logonCredentials>
+            <connectionSettings inherit="FromParent" />
+            <gatewaySettings inherit="FromParent" />
+            <remoteDesktop inherit="FromParent" />
+            <localResources inherit="FromParent" />
+            <securitySettings inherit="FromParent" />
+            <displaySettings inherit="FromParent" />
+        </server>
+        <server>
+            <name>ec2-18-216-80-160.us-east-2.compute.amazonaws.com</name>
+            <displayName>0-2</displayName>
+            <comment />
+            <logonCredentials inherit="None">
+                <userName>Administrator</userName>
+                <domain>ec2-18-216-80-160.us-east-2.compute.amazonaws.com</domain>
+                <password storeAsClearText="True">vwx33E!CxZ=WYko(sIN(6k49iM.b@y2)</password>
+            </logonCredentials>
+            <connectionSettings inherit="FromParent" />
+            <gatewaySettings inherit="FromParent" />
+            <remoteDesktop inherit="FromParent" />
+            <localResources inherit="FromParent" />
+            <securitySettings inherit="FromParent" />
+            <displaySettings inherit="FromParent" />
+        </server>
+        <server>
+            <name>ec2-3-142-219-214.us-east-2.compute.amazonaws.com</name>
+            <displayName>0-3</displayName>
+            <comment />
+            <logonCredentials inherit="None">
+                <userName>Administrator</userName>
+                <domain>ec2-3-142-219-214.us-east-2.compute.amazonaws.com</domain>
+                <password storeAsClearText="True">?(j5G$aIFMCv*@M).kaq)S8Igo*anBAv</password>
+            </logonCredentials>
+            <connectionSettings inherit="FromParent" />
+            <gatewaySettings inherit="FromParent" />
+            <remoteDesktop inherit="FromParent" />
+            <localResources inherit="FromParent" />
+            <securitySettings inherit="FromParent" />
+            <displaySettings inherit="FromParent" />
+        </server>
+        <server>
+            <name>ec2-13-58-172-6.us-east-2.compute.amazonaws.com</name>
+            <displayName>0-4</displayName>
+            <comment />
+            <logonCredentials inherit="None">
+                <userName>Administrator</userName>
+                <domain>ec2-13-58-172-6.us-east-2.compute.amazonaws.com</domain>
+                <password storeAsClearText="True">w*893*SjoXF*$hzYekqdvcV6aEsKVM4H</password>
+            </logonCredentials>
+            <connectionSettings inherit="FromParent" />
+            <gatewaySettings inherit="FromParent" />
+            <remoteDesktop inherit="FromParent" />
+            <localResources inherit="FromParent" />
+            <securitySettings inherit="FromParent" />
+            <displaySettings inherit="FromParent" />
+        </server>
+        <server>
+            <name>ec2-3-133-104-172.us-east-2.compute.amazonaws.com</name>
+            <displayName>1-1</displayName>
+            <comment />
+            <logonCredentials inherit="None">
+                <userName>Administrator</userName>
+                <domain>ec2-3-133-104-172.us-east-2.compute.amazonaws.com</domain>
+                <password storeAsClearText="True">idPFG-jzYq$Af9LS=HOPJms3Vy5rL2cY</password>
+            </logonCredentials>
+            <connectionSettings inherit="FromParent" />
+            <gatewaySettings inherit="FromParent" />
+            <remoteDesktop inherit="FromParent" />
+            <localResources inherit="FromParent" />
+            <securitySettings inherit="FromParent" />
+            <displaySettings inherit="FromParent" />
+        </server>
+    </file>
+</RDCMan>
